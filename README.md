@@ -122,4 +122,5 @@ honda-hackathon-0226/
 We call the hackathon a success if:
 
 ✅ Everyone completed **Main +** **`advanced_db2`** pre-work (local run + Exchange publish + DB2 connectivity).
+
 ✅ On hackathon day, the team can generate + implement an API from the spec, publish it, and validate end-to-end behavior without spending time on setup.
