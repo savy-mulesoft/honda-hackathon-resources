@@ -94,7 +94,7 @@ Participants (with Mulesoft SE guiding) will produce:
 ## Readiness Check
 
 1.  **Curated list of prompts** (hackathon_promt_guide.md) you’ll run live with them (so everyone’s aligned)
-2.  **Guardrail file (`honda-development-guardrails.md`)** + to be applied in Mule Dev Agent > Manage Agentforce Rules & Workflows > New Rule file .. +
+2.  **Guardrail file (`honda-development-guardrails.md`)** + to be applied in Mule Dev Agent > Manage Agentforce Rules & Workflows > Global Rules > New Rule file .. +
    <img width="426" height="205" alt="image" src="https://github.com/user-attachments/assets/98e0e84d-9f72-4c9a-919e-e42eea4f1c86" />
 
 
