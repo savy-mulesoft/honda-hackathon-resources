@@ -95,10 +95,12 @@ Participants (with Mulesoft SE guiding) will produce:
 
 1.  **Curated List of Prompts [`hackathon_prompt_guide.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/hackathon_promt_guide.md)** you’ll run live with them (so everyone’s aligned)
 
-2.  **Guardrail file [`honda-development-guardrails.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/honda-development-guardrails.md)** + to be applied in Mule Dev Agent > Manage Agentforce Rules & Workflows > Global Rules > New Rule file ... +
+2.  **Guardrail file [`honda-development-guardrails.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/honda-development-guardrails.md)** + to be applied in Mule Dev Agent > Manage Agentforce Rules & Workflows > Global Rules > New Rule file ... > Give name and create the file (+) > Copy/Paste the honda-development-guardrails.md file contents here    
 
 
     <img width="426" height="205" alt="image" src="https://github.com/user-attachments/assets/98e0e84d-9f72-4c9a-919e-e42eea4f1c86" />
+    <img width="662" height="709" alt="Screenshot 2026-01-23 at 11 49 01 AM" src="https://github.com/user-attachments/assets/47d74834-d76b-4919-b11f-a9b648b4333c" />
+
     
 4. **Hackathon Specification Document [`honda_hackathon_specification.pdf`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/Honda%20Hackathon%20Specification.pdf)**  to be added in a hackathon directory(honda-mule-hackathon-0226/resources/). Path to be used during Vibe coding.
 
