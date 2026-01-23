@@ -93,8 +93,8 @@ Participants (with Mulesoft SE guiding) will produce:
 
 ## Readiness Check
 
-1.  **Curated List of Prompts [`hackathon_prompt_guide.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/hackathon_promt_guide.md)** you’ll run live with them (so everyone’s aligned) - In Progress...
-
+1. **Hackathon Specification Document [`honda_hackathon_specification.pdf`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/Honda%20Hackathon%20Specification.pdf)**  to be added in a hackathon directory(honda-mule-hackathon-0226/resources/). Path to be used during Vibe coding.
+   
 2.  **Guardrail file [`honda-development-guardrails.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/honda-development-guardrails.md)** + to be applied in Mule Dev Agent > Manage Agentforce Rules & Workflows > Global Rules > New Rule file ... > Give name and create the file (+) > Copy/Paste the honda-development-guardrails.md file contents here    
 
 
@@ -102,16 +102,17 @@ Participants (with Mulesoft SE guiding) will produce:
     <img width="662" height="709" alt="Screenshot 2026-01-23 at 11 49 01 AM" src="https://github.com/user-attachments/assets/47d74834-d76b-4919-b11f-a9b648b4333c" />
 
     
-4. **Hackathon Specification Document [`honda_hackathon_specification.pdf`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/Honda%20Hackathon%20Specification.pdf)**  to be added in a hackathon directory(honda-mule-hackathon-0226/resources/). Path to be used during Vibe coding.
-
-5. **Create Folder Structure** > 
+3. **Create Folder Structure** > 
 ```text
 honda-hackathon-0226/
 └── resources/
 └── product-categories-api/
-```    
+```
+
+4.  **Curated List of Prompts [`hackathon_prompt_guide.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/hackathon_promt_guide.md)** you’ll run live with them (so everyone’s aligned) - In Progress...
     
-   
+
+
 
 
 ## Success criteria (simple “green check” definition)
