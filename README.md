@@ -74,9 +74,12 @@ If DDL is restricted:
 
 </details>
 
----
 
-## <h3>🚀 Hackathon Day Flow (LIVE SESSION) </h3>
+-----
+# <mark> <h3>🚀 Hackathon day flow (what we will do live) </h3></mark>
+> **Date:** Tuesday, February 3, 2026  
+> **Time:** 10:00 AM – 2:00 PM EST
+---
 
 > **Date:** Tuesday, February 3, 2026  
 > **Time:** 10:00 AM – 2:00 PM EST
