@@ -14,22 +14,18 @@ honda-hackathon-0226/product-categories-api
 
 ## Phase 1 — Generate API from Spec + Publish to Exchange + Implement with Local Variables
 
+Refer ../resources/Honda Hackathon Specification.pdf
+Using this specification, create the Product Categories API RAML, publish the API to my Anypoint Exchange, and implement the API in this project.
+For now, do not connect to any database.
+Mock persistence using local variables:
+- For PUT requests, store the incoming payload in a local variable.
+- For GET requests, return the value from that variable.
+Also generate a small test document with curl commands to validate both the PUT and GET operations.
 
-Goal:
-1) Create the API RAML for the Product Categories API exactly as defined in the specification.
-2) Publish the API (RAML) to my Anypoint Exchange.
-3) Implement the API in this project.
 
-Phase 1 implementation constraint:
-- Do NOT connect to DB2 yet.
-- Mock persistence using local variables:
-  - PUT: store the incoming payload into a variable (temporary in-memory store).
-  - GET: retrieve and return the value from that variable.
-- Ensure GET and PUT behavior matches the specification (request/response shape, status codes, errors if applicable).
+## Phase 2 — Replace the variable-based mock with real DB2 persistence while keeping the same API contract.
 
-After completing the implementation:
-- Create a test document named `test_api.md` that includes:
-  - How to run the app locally
-  - curl command for PUT (with a sample payload)
-  - curl command for GET
-  - Expected responses for both
+Update the existing implementation.
+Remove the variable-based mock persistence, Connect to DB2 database and persist the data in the database instead.
+Use Generic Connection with IBM DB2 JDBC driver. Include proper shared library configuration, connection pooling, and basic CRUD operations.
+Create placegolder for DB2 connection details application.properties, including the schema name and table name.
