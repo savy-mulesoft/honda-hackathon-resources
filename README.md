@@ -91,10 +91,12 @@ Participants (with Mulesoft SE guiding) will produce:
 2.  **Published API spec to Anypoint Exchange** (so it’s discoverable/testable via Exchange)
 3.  **DB2 persistence integrated** (write + read) — assuming permissions and connectivity are already validated from `advanced_db2`
 
-## What we will send you a few days before hackathon
+## Readiness Check
 
-1.  **A curated list of prompts** you’ll run live with them (so everyone’s aligned)
-2.  A **guardrail file (`rules_guardrail.md`)** + instructions for applying it in Anypoint Code Builder
+1.  **Curated list of prompts** (hackathon_promt_guide.md) you’ll run live with them (so everyone’s aligned)
+2.  **Guardrail file (`honda-development-guardrails.md`)** + to be applied in Mule Dev Agent > Manage Agentforce Rules & Workflows > New Rule file .. +
+   <img width="426" height="205" alt="image" src="https://github.com/user-attachments/assets/98e0e84d-9f72-4c9a-919e-e42eea4f1c86" />
+
 
 ## Success criteria (simple “green check” definition)
 
