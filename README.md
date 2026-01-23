@@ -119,6 +119,12 @@ honda-hackathon-0226/
 * Apply in Mule Dev Agent → Manage Agentforce Rules & Workflows → Global Rules → New Rule file ...  →Give name and create the file (+) > Copy/Paste the file contents.
 * Replace Org ID with your Anypoint Org ID
 
+
+    <img width="426" height="205" alt="image" src="https://github.com/user-attachments/assets/98e0e84d-9f72-4c9a-919e-e42eea4f1c86" />
+    <img width="662" height="709" alt="Screenshot 2026-01-23 at 11 49 01 AM" src="https://github.com/user-attachments/assets/47d74834-d76b-4919-b11f-a9b648b4333c" />
+
+    
+
 ### Prompt Guide (In Progress)
 
 * File: `hackathon_prompt_guide.md`(https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/hackathon_promt_guide.md)
