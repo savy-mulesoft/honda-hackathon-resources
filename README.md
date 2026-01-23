@@ -93,7 +93,7 @@ Participants (with Mulesoft SE guiding) will produce:
 
 ## Readiness Check
 
-1.  **Curated List of Prompts [`hackathon_prompt_guide.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/hackathon_promt_guide.md)** you’ll run live with them (so everyone’s aligned)
+1.  **Curated List of Prompts [`hackathon_prompt_guide.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/hackathon_promt_guide.md)** you’ll run live with them (so everyone’s aligned) - In Progress...
 
 2.  **Guardrail file [`honda-development-guardrails.md`](https://github.com/savy-mulesoft/honda-hackathon-resources/blob/main/honda-development-guardrails.md)** + to be applied in Mule Dev Agent > Manage Agentforce Rules & Workflows > Global Rules > New Rule file ... > Give name and create the file (+) > Copy/Paste the honda-development-guardrails.md file contents here    
 
