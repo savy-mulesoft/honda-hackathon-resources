@@ -53,23 +53,27 @@ Each participant must share a short **“done” update** confirming readiness.
 
 ### Schema Isolation
 
-Create a dedicated schema for hackathon work to avoid collisions. Refer initial_setup.sql (link below)
+Create a dedicated schema for hackathon work to avoid collisions.  
+Refer initial_setup.sql (link below)
 
-### One Table per Participant
+### Single Shared Table
 
-Use one table per participant, e.g. `prdt_ctgry_<employeeId>`. Refer initial_setup.sql (link below)
+Use **one shared table** for all hackathon participants (for example: `PRDT_CTGRY`).  
+Each record will include a column such as `created_by` (or `user_id`) to logically isolate data per participant.
 
 ### SQL Execution
 
-* Open: `advanced_db2/src/main/resources/sql/initial_setup.sql`(https://github.com/savy-mulesoft/honda-mule-vibe-starter/blob/advanced_db2/src/main/resources/sql/initial_setup.sql)
-* Repeat for each employee, replace placeholder table name with employee ID
-* execute on DB2
+* Open: `advanced_db2/src/main/resources/sql/initial_setup.sql`  
+  https://github.com/savy-mulesoft/honda-mule-vibe-starter/blob/advanced_db2/src/main/resources/sql/initial_setup.sql
+* Execute once on DB2 to create:
+  - Schema
+  - Shared table
 
 ### Permissions (DDL vs DML)
 
 If DDL is restricted:
 
-* DB team should pre-create schema and participant tables
+* DB team should pre-create schema and shared table
 * Participant credentials must allow DML (insert/read/update)
 
 </details>
